@@ -1,5 +1,5 @@
 # UCSD-CoffeeShop
-Final project for the class: "CSE-40635 Design Patterns"
+Final project for the class: "CSE-40635 Design Patterns" made in Java.
 
 The purpose of this project was to implement design patterns of each category (creational, structural, behavioral).
 
